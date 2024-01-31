@@ -1,0 +1,8 @@
+:root {
+  --color-brand: #e01d3f;
+}
+
+.Notifications {
+  padding: 50px;
+  border: 2px solid var(--color-brand);
+}
